@@ -1,0 +1,19 @@
+{
+  "name": "8-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangzhenguo3352/my-nodejs-ke-jian-8-7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhangzhenguo3352/my-nodejs-ke-jian-8-7/issues"
+  },
+  "homepage": "https://github.com/Zhangzhenguo3352/my-nodejs-ke-jian-8-7#readme"
+}
